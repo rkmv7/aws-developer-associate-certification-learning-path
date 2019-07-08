@@ -28,7 +28,7 @@ Without further ado, here is the "master" TODO checklist for my AWS Devloper Ass
 - [x] Complete Coursera "AWS Fundamentals: Building Serverless Applications" https://www.coursera.org/learn/aws-fundamentals-building-serverless-applications/home/welcome. Free course with labs where you actually build an application. Not super involved, but enough to get hands dirty.
 - [x] Complete acloud.guru "AWS Certification Preparation Guide" https://learn.acloud.guru/course/aws-certification-preparation/dashboard Really good overview on all AWS certifications, how to learn, how to practice for exams, and tips for actually how to take the test.
 
-## Study Whitepapers (as recommended by AWS Certification Prep and acloud.guru "Cert Prep Guide)
+## Study Whitepapers (as recommended by AWS Certification Prep and acloud.guru "Cert Prep Guide")
 - [ ] Overview of Amazon Web Services https://d0.awsstatic.com/whitepapers/aws-overview.pdf
 - [ ] Architecting for the Cloud: AWS Best Practices https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 - [ ] How AWS Pricing Works http://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
@@ -44,7 +44,7 @@ Without further ado, here is the "master" TODO checklist for my AWS Devloper Ass
 - [ ] Overview of Security Processes https://d1.awsstatic.com/whitepapers/Security/AWS_Security_Whitepaper.pdf
 - [ ] AWS Storage Services Overview https://d0.awsstatic.com/whitepapers/AWS%20Storage%20Services%20Whitepaper-v9.pdf
 
-## Study Service FAQ Pages 
+## Study Service FAQ Pages (TODO - these services are only from the AWS cloud prep page, consider adding other services as you come across them)
 - [ ] Amazon Simple Queue Service https://aws.amazon.com/sqs/faqs/
 - [ ] Amazon DynamoDB https://aws.amazon.com/dynamodb/faqs/
 - [ ] Amazon ElastiCache https://aws.amazon.com/elasticache/faqs/
