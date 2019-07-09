@@ -56,8 +56,8 @@ Without further ado, here is the "master" TODO checklist for my AWS Devloper Ass
 - [ ] AWS Key Management Service https://aws.amazon.com/kms/faqs/
 
 ## Cloud Practitioner Studying
-- [ ] Complete AWS "AWS Cloud Practitioner Essentials (Second Edition)" https://www.aws.training/learningobject/curriculum?id=27076
 - [ ] Complete acloud.guru "AWS Certified Cloud Practitioner 2019" https://learn.acloud.guru/course/aws-certified-cloud-practitioner/dashboard
+- [ ] MAYBE Complete AWS "AWS Cloud Practitioner Essentials (Second Edition)" https://www.aws.training/learningobject/curriculum?id=27076 
 
 ## Developer Associate Studying
 - [ ] Complete acloud.guru. https://learn.acloud.guru/course/aws-certified-developer-associate-june-2018/dashboard Try to do the labs yourself first before resorting to the lab guide.
@@ -72,5 +72,6 @@ Without further ado, here is the "master" TODO checklist for my AWS Devloper Ass
 # Miscellaneous Links / helpful references
 1. https://www.contino.io/insights/how-to-pass-three-aws-associate-certifications-in-one-month
 2. https://acloud.guru/forums/aws-certified-developer-associate/discussion/-KUdI5f2LNbi4wvK7v4I/how-to-pass-aws-certified-developer-exam-with-96
-3. 
+3. https://acloud.guru/forums/aws-certified-developer-associate/discussion/-KW4paw57A4uVEXU0lmv/is-this-course-just-enough
+4. https://medium.com/faun/passing-the-aws-certified-developer-associate-exam-c83c894cb780
 
