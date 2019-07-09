@@ -69,3 +69,8 @@ Without further ado, here is the "master" TODO checklist for my AWS Devloper Ass
 - [ ] Complete "OFFICIAL" AWS practice exam https://help.acloud.guru/hc/en-us/articles/115001392033-AWS-Official-Practice-Exams
 
 
+# Miscellaneous Links / helpful references
+1. https://www.contino.io/insights/how-to-pass-three-aws-associate-certifications-in-one-month
+2. https://acloud.guru/forums/aws-certified-developer-associate/discussion/-KUdI5f2LNbi4wvK7v4I/how-to-pass-aws-certified-developer-exam-with-96
+3. 
+
