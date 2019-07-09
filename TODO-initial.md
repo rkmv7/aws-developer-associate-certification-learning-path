@@ -29,9 +29,10 @@ Without further ado, here is the "master" TODO checklist for my AWS Devloper Ass
 - [x] Complete acloud.guru "AWS Certification Preparation Guide" https://learn.acloud.guru/course/aws-certification-preparation/dashboard Really good overview on all AWS certifications, how to learn, how to practice for exams, and tips for actually how to take the test.
 
 ## Study Whitepapers (as recommended by AWS Certification Prep and acloud.guru "Cert Prep Guide")
-- [ ] Overview of Amazon Web Services https://d0.awsstatic.com/whitepapers/aws-overview.pdf
 - [ ] Architecting for the Cloud: AWS Best Practices https://d1.awsstatic.com/whitepapers/AWS_Cloud_Best_Practices.pdf
 - [ ] How AWS Pricing Works http://d1.awsstatic.com/whitepapers/aws_pricing_overview.pdf
+
+- [ ] Overview of Amazon Web Services https://d0.awsstatic.com/whitepapers/aws-overview.pdf
 - [ ] Compare AWS Support Plans https://aws.amazon.com/premiumsupport/plans/
 - [ ] AWS Security Best Practices https://d0.awsstatic.com/whitepapers/Security/AWS_Security_Best_Practices.pdf
 - [ ] AWS Well-Architected Framework https://d0.awsstatic.com/whitepapers/architecture/AWS_Well-Architected_Framework.pdf
