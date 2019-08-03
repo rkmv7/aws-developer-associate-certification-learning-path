@@ -57,7 +57,7 @@ Without further ado, here is the "master" TODO checklist for my AWS Devloper Ass
 - [ ] AWS Key Management Service https://aws.amazon.com/kms/faqs/
 
 ## Cloud Practitioner Studying
-- [ ] Complete acloud.guru "AWS Certified Cloud Practitioner 2019" https://learn.acloud.guru/course/aws-certified-cloud-practitioner/dashboard
+- [X] Complete acloud.guru "AWS Certified Cloud Practitioner 2019" https://learn.acloud.guru/course/aws-certified-cloud-practitioner/dashboard
 - [ ] MAYBE Complete AWS "AWS Cloud Practitioner Essentials (Second Edition)" https://www.aws.training/learningobject/curriculum?id=27076 
 
 ## Developer Associate Studying
